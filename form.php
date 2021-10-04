@@ -16,7 +16,7 @@
     </div>
     <div>
       <label  for="sujet">Vous nous contactez pour :</label>
-        <select name="sujet" id="pet-select">
+        <select name="sujet" id="sujet">
             <option value="">--Choisissez--</option>
             <option value="covid">Supprimer l'épisode Covid de la mémoire de la population mondiale</option>
             <option value="job">Vous trouver le job de vos rêves</option>
